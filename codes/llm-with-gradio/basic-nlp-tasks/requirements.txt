@@ -1,0 +1,6 @@
+transformers
+requests
+io
+base64
+dotenv
+gradio

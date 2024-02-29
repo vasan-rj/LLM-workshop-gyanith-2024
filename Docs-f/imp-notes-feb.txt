@@ -1,0 +1,4 @@
+location 	- SF7,SCB Building 
+time 		- ( 9:30 am to 12:30 Pm ) and ( 2pm to 4:30 pm )
+duration	- 5hrs (session) 0.5 hrs (prize distribution) 
+date 		- Day 1 of Gyanith 2024
